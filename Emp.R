@@ -3,7 +3,7 @@
 
 ## IMPORT DATA  ######
 
-employee_data <- read.csv("C:/Users/Anshum/Desktop/Learning curve/R/plans/structure/company_employee.csv")
+employee_data <- read.csv("company_employee.csv")
 
 ######  DATA EXPLORATION, PREPROCESSING, DESCRIPTIVE STATISTICS AND DATA OVERVIEW #######################################
 
